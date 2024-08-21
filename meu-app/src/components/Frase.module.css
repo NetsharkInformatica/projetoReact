@@ -1,0 +1,8 @@
+.fraseContainer{
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+}
+ .fraseContainer:hover{
+    background-color: rgb(222, 31, 31);
+} 
